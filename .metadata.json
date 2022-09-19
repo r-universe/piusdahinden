@@ -1,5 +1,9 @@
 [
   {
+    "package": "disprofas",
+    "oncran": true
+  },
+  {
     "package": "expirest",
     "oncran": true
   }
