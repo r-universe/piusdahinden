@@ -1,10 +1,10 @@
 [
   {
-    "package": "disprofas",
+    "package": "expirest",
     "oncran": true
   },
   {
-    "package": "expirest",
+    "package": "disprofas",
     "oncran": true
   }
 ]
