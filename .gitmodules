@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "disprofas"]
 	path = disprofas
 	url = https://github.com/piusdahinden/disprofas
-	shallow = true
-	registered = true
 [submodule "expirest"]
 	path = expirest
 	url = https://github.com/piusdahinden/expirest
-	shallow = true
-	registered = true
